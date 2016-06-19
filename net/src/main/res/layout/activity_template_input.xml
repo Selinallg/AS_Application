@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="20dp"
+    >
+    <EditText 
+        
+        android:id="@+id/et_calling"
+        android:hint="请输入电话号码"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:inputType="phone"  
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        />
+     <EditText 
+        android:id="@+id/et_order_id"
+        android:hint="请输入订单号"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"  
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        />
+    
+    <EditText 
+        android:id="@+id/et_amount"
+        android:hint="请输入消费金额"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"  
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        />
+    <EditText 
+        android:id="@+id/et_code"
+        android:hint="请输入验证码"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"  
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        />
+    <Button 
+        android:onClick="onClick"
+        android:id="@+id/btn_send"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="发送请求"
+        android:layout_marginBottom="10dp"
+        />
+    <FrameLayout 
+        android:id="@+id/fl_history"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        ></FrameLayout>
+    
+   
+    
+    
+
+</LinearLayout>

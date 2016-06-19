@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\item_history_show.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\item_history_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\dialog_list.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_home2.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_template_input.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_template_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\item.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\item_template_show.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\item_template_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_voucher.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_voucher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\simple_fragment_activity.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\simple_fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\fragment_simple_text.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\fragment_simple_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\fragment_history_show.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\fragment_history_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_template_show.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_template_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "C:\\Users\\LiuLiangGuo\\AndroidStudioProjects\\MyApplication\\net\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]

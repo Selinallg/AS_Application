@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root"
+    >
+
+    <FrameLayout
+        android:id="@+id/fl_1"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_2"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_3"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_4"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_5"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_6"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_7"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_8"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <FrameLayout
+        android:id="@+id/fl_9"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+</RelativeLayout>
